@@ -1,0 +1,26 @@
+{
+  "name": "express-seed-template",
+  "version": "1.0.0",
+  "description": "express webserver",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "node ./src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang657850144/express-seed-template.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Charles Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yang657850144/express-seed-template/issues"
+  },
+  "homepage": "https://github.com/yang657850144/express-seed-template#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
